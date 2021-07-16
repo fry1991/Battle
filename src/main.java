@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Battleship {
+public class main {
 
 
     static String playerName1 = "Player#1";
